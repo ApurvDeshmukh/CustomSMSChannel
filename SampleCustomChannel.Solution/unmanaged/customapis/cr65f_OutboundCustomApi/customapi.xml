@@ -1,0 +1,18 @@
+<customapi uniquename="cr65f_OutboundCustomApi">
+  <allowedcustomprocessingsteptype>0</allowedcustomprocessingsteptype>
+  <bindingtype>0</bindingtype>
+  <description default="Outbound custom api">
+    <label description="Outbound custom api" languagecode="1033" />
+  </description>
+  <displayname default="OutboundCustomApi">
+    <label description="OutboundCustomApi" languagecode="1033" />
+  </displayname>
+  <iscustomizable>0</iscustomizable>
+  <isfunction>0</isfunction>
+  <isprivate>0</isprivate>
+  <name>OutboundCustomApi</name>
+  <plugintypeid>
+    <plugintypeid>83202c43-dd96-4742-87e4-d11aedb783c0</plugintypeid>
+  </plugintypeid>
+  <workflowsdkstepenabled>0</workflowsdkstepenabled>
+</customapi>
